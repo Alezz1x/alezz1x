@@ -68,5 +68,5 @@
 <div align="center">
 <h1> Get in touch with us </h1>
   <h3>khanykatauon@gmail.com</h3>
-  <a href="twitter.com">Twitter</a> 💠 <a href="twitter.com">Discord</a> 💠 <a href="twitter.com">Medium</a> 💠 <a href="twitter.com">Keybase</a>
+  <a href="https://x.com/Alezzix_solta">Twitter</a> 💠 <a href="https://discord.com/users/981574877226078208">Discord</a> 💠 <a href="https://medium.com/@zeolkaralavias">Medium</a> 💠 <a href="https://keybase.io/alezzix">Keybase</a>
 </div>
