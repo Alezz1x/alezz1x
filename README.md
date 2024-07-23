@@ -14,7 +14,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/67d12240-f998-4395-afe8-d350f971ac7b" alt="Лого 2" width="100"/><br>
-      <a href="https://example.com">Juno</a>
+      <a href="https://github.com/Alezz1x/contributions-Junoinfo/tree/main">Juno</a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7ff8f2e4-ea8b-4c93-a3e5-458bb4079076" alt="Лого 3" width="100"/><br>
@@ -24,7 +24,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ecc1a8e9-0020-402e-b202-233610fab8b0" alt="Лого 4" width="100"/><br>
-      <a href="https://example.com">OKP4</a>
+      <a href="https://github.com/Alezz1x/contributions-OKP4info/tree/main">OKP4</a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e22715c9-3cb3-464d-8beb-3b5978b02446" alt="Лого 5" width="100"/><br>
