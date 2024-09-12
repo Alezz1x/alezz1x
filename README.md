@@ -49,6 +49,12 @@
       <a href="https://scan.initia.tech/initiation-1/validators/initvaloper1yuuy4d35gp02pkx8ke7lg6973cp7tq7gtsn6u6">Initia</a>
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFbTn8iCMt9sA/company-logo_200_200/company-logo_200_200/0/1724196851506/sourcenetwork_logo?e=2147483647&v=beta&t=qm9353ZAF6qfdwleTMeDLOM2546DT5URA6NkF-eu0yA" alt="Лого 10" width="100"/><br>
+      <a href="https://medium.com/@zeolkaralavias/source-run-node-051afcca177a">Source</a>
+    </td>
+   </tr>
 </table>
 
 <div align="center">
