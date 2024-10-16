@@ -27,26 +27,26 @@
       <a href="https://github.com/Alezz1x/contributions-OKP4info/tree/main">OKP4</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e22715c9-3cb3-464d-8beb-3b5978b02446" alt="Лого 5" width="100"/><br>
-      <a href="https://explorer.halonode.top/artela/staking/artvaloper1yv934uxlqv900gmhe65l5jrypwkan9jdpnyy58">Artela</a>
+      <img src="https://avatars.githubusercontent.com/u/160767775?s=200&v=4" alt="Лого 5" width="100"/><br>
+      <a href="https://github.com/Alezz1x/contributions_zenrock/tree/main">Zenrock</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f382a67b-0b12-41c7-8ea3-09584828083a" alt="Лого 6" width="100"/><br>
-      <a href="https://testnet.itrocket.net/pryzm/staking/pryzmvaloper1kzlygqprdzf0a0xlrmc3tjz5vn0848utnl73mf">Pryzm</a>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/28485.png" alt="Лого 6" width="100"/><br>
+      <a href="https://github.com/Alezz1x/contributions_nolus/tree/main">Nolus</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/cc215d62-fcc9-475d-bd60-29ec8b6e7ab5" alt="Лого 7" width="100"/><br>
-      <a href="https://warden-explorer.paranorm.pro/warden/staking/wardenvaloper1mc43euuns46qrar053a7x4egn5ak6j237aaxmc">Warden</a>
+      <img src="https://pbs.twimg.com/profile_images/1680864770361110529/VzWmGcdE_400x400.jpg" alt="Лого 7" width="100"/><br>
+      <a href="https://quasar.fi/">Quasar</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/213f3112-7562-41d0-bacb-7926e29c82ca" alt="Лого 8" width="100"/><br>
-      <a href="https://explorers.l0vd.com/entangle-testnet/staking/ethmvaloper1qdpss9l27f5zuknkdevak8nzdsxfs2ugt6vcd4">Entagle</a>
+      <img src="https://static.chainbroker.io/mediafiles/projects/hypersign/hyper.png" alt="Лого 8" width="100"/><br>
+      <a href="https://www.hypersign.id/">Hypersign</a>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/02af5da2-0301-48f3-9485-91c11eb2c228" alt="Лого 9" width="100"/><br>
-      <a href="https://scan.initia.tech/initiation-1/validators/initvaloper1yuuy4d35gp02pkx8ke7lg6973cp7tq7gtsn6u6">Initia</a>
+      <img src="https://pbs.twimg.com/profile_images/1681943775612993536/g2zgtZ53_400x400.jpg" alt="Лого 9" width="100"/><br>
+      <a href="https://www.soarchain.com/">Soarchain</a>
     </td>
   </tr>
     <tr>
@@ -60,6 +60,10 @@
 <div align="center">
 <h1> Our contributions </h1>
 </div>
+
+### Zenrock Node setup - https://github.com/Alezz1x/contributions_zenrock
+
+### Nolus Node setup - https://github.com/Alezz1x/contributions_nolus
 
 ### Babylon. Pull Request - https://github.com/babylonchain/networks/pull/131
 
