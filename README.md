@@ -42,7 +42,7 @@
     </td>
     <td align="center">
       <img src="https://static.chainbroker.io/mediafiles/projects/hypersign/hyper.png" alt="Лого 8" width="100"/><br>
-      <a href="https://www.hypersign.id/">Hypersign</a>
+      <a href="https://medium.com/@zeolkaralavias/running-a-testnet-validator-node-in-hypersign-7e570eb68a95">Hypersign</a>
     </td>
     <td align="center">
       <img src="https://pbs.twimg.com/profile_images/1681943775612993536/g2zgtZ53_400x400.jpg" alt="Лого 9" width="100"/><br>
@@ -60,6 +60,8 @@
 <div align="center">
 <h1> Our contributions </h1>
 </div>
+
+### Hypersign Node setup - https://medium.com/@zeolkaralavias/running-a-testnet-validator-node-in-hypersign-7e570eb68a95
 
 ### Zenrock Node setup - https://github.com/Alezz1x/contributions_zenrock
 
