@@ -54,6 +54,14 @@
       <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFbTn8iCMt9sA/company-logo_200_200/company-logo_200_200/0/1724196851506/sourcenetwork_logo?e=2147483647&v=beta&t=qm9353ZAF6qfdwleTMeDLOM2546DT5URA6NkF-eu0yA" alt="Лого 10" width="100"/><br>
       <a href="https://medium.com/@zeolkaralavias/source-run-node-051afcca177a">Source</a>
     </td>
+          <td align="center">
+      <img src="https://cdn.prod.website-files.com/633c67ced5457aa4dec572be/667ac3022260a22071b3cf37_u_b_f51944d0-b527-11ee-be26-a5e0a0cc15ce.png" alt="Лого 11" width="100"/><br>
+      <a href="https://github.com/Alezz1x/contributions_Berachain/tree/main">Berachain</a>
+    </td>
+                <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQeLvIm0sfSuQbJzRioUwyzBoDQy7q_fXbQ&s" alt="Лого 11" width="100"/><br>
+      <a href="https://github.com/Alezz1x/contributions_axone/tree/main">Axone</a>
+    </td>
    </tr>
 </table>
 
